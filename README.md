@@ -1,3 +1,3 @@
 # Programming in Haskell
 
-Here are my solutions to some of the exercises from the book.
+Here are my solutions to (some) exercises from Programming In Haskell by Graham Hutton 
